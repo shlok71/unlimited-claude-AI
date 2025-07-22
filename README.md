@@ -6,13 +6,8 @@ A fully functional, polished, and self-hosted web interface for Anthropic's Clau
 
 ### ✨ Live Demo
 
-<!-- 
-    IMPORTANT: Record a GIF of your interface in action! Show yourself typing a prompt, 
-    the streaming response appearing, and the code artifact generation. 
-    This is the single most effective way to showcase your work.
--->
 
-![Demo GIF of the Claude UI in action](link_to_your_demo.gif)
+![Demo GIF of the Claude UI in action](demo.gif)
 
 ---
 
